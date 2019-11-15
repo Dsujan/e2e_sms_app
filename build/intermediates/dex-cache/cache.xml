@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_439c30ae2bda60148fcdba671ab45b431047eac7\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6ddf9ca176bd6d83be86695f585447c7db93f756\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="17ff253168d80585290e3068bace150f6b1ee58e">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cb5cbb6471fa4c810b513ffc8027cf9840787cfc\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8de6eafec1982a7908472d1057e64db382606efb\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cf6ac48cc64bc817eeb4f7c38183b95ac3d775d0\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_77a3b83d5bbb5d27330b9f7eb00fe540ddd0aa2a\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_61956f96dbf11022e4b028acf4e66812404122e7\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8a74cdf31f11000d077fc153b612d9b4372c9814\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_dcab8c8248d638d169bb83132cfd90d5a72bbfb9\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d0d30258c41f83d4f04c114678e41ef029bc0be0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_718488b16a688a866c59945fd94f9f15161ca62b\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="712878d160c65589297e4a5c8cf65b9ffebd65e0">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_607c5ede66e17dc9abe3a02625cef2257f89f088\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9958a31f8ef72c8209eb0e35d25cf2927929a6a4\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_717a9551e76150c8b171b7aa2335b052aefe297d\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a5072306e8f536b0ff960060bb0418ee474b4c03\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_c9f65ecf4a365cc38c2698f4e8a3db2c6a500046\classes.dex" />
+    </item>
+    <item
+        jar="E:\CSE Assignment\SMSProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\CSE Assignment\SMSProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_67e817b19f04cfd56bb9de7d1a98c1bc28d78f06\classes.dex" />
+    </item>
+
+</items>
